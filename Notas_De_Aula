@@ -8,3 +8,6 @@ Como rodar com o terminal em C:
 cd Desktop
 PS C:\Users\laboratorio\Desktop> gcc prog1.c -o prog1.exe
 PS C:\Users\laboratorio\Desktop> .\prog1.exe
+
+cin, em C++ usa apenas o primeiro.
+getline pega tudo.
