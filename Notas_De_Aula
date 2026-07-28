@@ -1,0 +1,10 @@
+Apresentação da disciplina e revisão
+
+.\roda
+
+.h termina assim apenas em C.
+
+Como rodar com o terminal:  
+cd Desktop
+PS C:\Users\laboratorio\Desktop> gcc prog1.c -o prog1.exe
+PS C:\Users\laboratorio\Desktop> .\prog1.exe
