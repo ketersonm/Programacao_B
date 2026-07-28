@@ -11,3 +11,5 @@ PS C:\Users\laboratorio\Desktop> .\prog1.exe
 
 cin, em C++ usa apenas o primeiro.
 getline pega tudo.
+
+nome.length() conta quantos caracteres tem.
