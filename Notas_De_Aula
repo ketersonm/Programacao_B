@@ -1,3 +1,12 @@
+printf -> cout
+scanf -> cin
+Todo vetor eh um ponteiro
+fflush -> limpa o buffer
+
+
+
+
+
 Apresentação da disciplina e revisão
 
 .\roda
@@ -6,6 +15,7 @@ Apresentação da disciplina e revisão
 
 Como rodar com o terminal em C:  
 cd Desktop
+PS C:\Users\laboratorio\Desktop> (g++ apenas em c++) prog1.c -o prog1.exe
 PS C:\Users\laboratorio\Desktop> gcc prog1.c -o prog1.exe
 PS C:\Users\laboratorio\Desktop> .\prog1.exe
 
@@ -13,3 +23,4 @@ cin, em C++ usa apenas o primeiro.
 getline pega tudo.
 
 nome.length() conta quantos caracteres tem.
+Nome repositorio: algoritmos
