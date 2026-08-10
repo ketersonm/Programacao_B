@@ -3,7 +3,7 @@ scanf -> cin
 Todo vetor eh um ponteiro
 fflush -> limpa o buffer
 
-control l limpa a tela
+control  + l limpa a tela
 
 
 
