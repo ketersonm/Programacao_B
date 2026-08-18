@@ -2,6 +2,12 @@ printf -> cout
 scanf -> cin
 Todo vetor eh um ponteiro
 fflush -> limpa o buffer
+vector<Tipo> vetor
+vetor.size() -> mede o tamanho
+pushback() inserir
+getline(cin, telefone) para pegar a linha inteira, junto do espaço
+using namespace std;
+typedef struct --> para fazer os itens separado
 
 control  + l limpa a tela
 shift alt f 
@@ -15,7 +21,7 @@ Apresentação da disciplina e revisão
 
 Como rodar com o terminal em C:  
 cd Desktop
-PS C:\Users\laboratorio\Desktop> (g++ apenas em c++) prog1.c -o prog1.exe
+PS C:\Users\laboratorio\Desktop> (g++ apenas em c++) g++ eutu.cpp  -o eutu.exe
 PS C:\Users\laboratorio\Desktop> gcc prog1.c -o prog1.exe
 PS C:\Users\laboratorio\Desktop> .\prog1.exe
 
