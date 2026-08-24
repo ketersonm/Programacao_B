@@ -1,3 +1,25 @@
+Strunct - Recurso antgo para criar TIPOS do programador
+
+Typedef struct {
+    float peso;
+    float altura;
+    string nome;
+} IndiceMassa;
+
+main (){
+vector<IndiceMassa> pessoas;
+float peso = 74.3
+float altura = 1.85
+string nome = "Bla"
+pessoas.push_back({peso, altura, mome})
+
+variavel transitoria. para validaçao
+    
+
+
+
+
+
 printf -> cout
 scanf -> cin
 Todo vetor eh um ponteiro
