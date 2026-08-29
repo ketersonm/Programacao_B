@@ -1,3 +1,9 @@
+Vetor vetorTMP
+faça TMP para temporario para facilitar
+
+
+   alunos.push_back(perfilTMP);
+alunos eh o nome 2 do vetor.
 
 
 if (casas.empty()) {
