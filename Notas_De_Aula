@@ -1,3 +1,10 @@
+
+
+if (casas.empty()) {
+casa eh o nome 2 do vetor, eh empty() eh a mesma coisa que casas.size() == 0.
+
+
+
 Strunct - Recurso antgo para criar TIPOS do programador
 
 Typedef struct {
