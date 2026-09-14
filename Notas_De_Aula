@@ -1,3 +1,10 @@
+write - novo
+append - adiciona no fim
+
+Usar sempre open  e close
+fflush() e cin.ignore - descarrega para o arquivo
+
+
 
 PROGRAMA 
 - vavriaveis -mem.ram
