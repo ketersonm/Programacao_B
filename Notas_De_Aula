@@ -3,6 +3,19 @@
 
 ## Manipulação de arquivos texto (plain texto: csv, xml, json, toon)
 
+
+
+
+parametro -> (1)
+
+parametro -> oq vai
+argument -> recebe
+
+
+
+
+com retorno = <- aqui, com metodo a direita disso
+
 ## Organização do código em módulos ou modularização
     - métodos sem retorno - há presença da palavra void
         - procedimentos ou procedure
