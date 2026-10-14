@@ -4,6 +4,7 @@
 ## Manipulação de arquivos texto (plain texto: csv, xml, json, toon)
 Metodo -> UMA COISA
 
+https://dontpad.com/algoritmosufn
 
 parametro, se nao for vetor, eh copia. vetor eh ponteiro. vetor mexer, altera na referencia
 
@@ -16,6 +17,8 @@ parametro -> (1)
 
 parametro -> oq vai
 argumento -> recebe
+
+vector eh uma excessao
 
 referencia:
 implicito -> invisivel - > vetor
