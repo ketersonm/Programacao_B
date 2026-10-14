@@ -2,7 +2,7 @@
 ## Uso de structs combinados com listas ou arrays ou vetores
 
 ## Manipulação de arquivos texto (plain texto: csv, xml, json, toon)
-
+Metodo -> UMA COISA
 
 
 parametro, se nao for vetor, eh copia. vetor eh ponteiro. vetor mexer, altera na referencia
