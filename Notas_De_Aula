@@ -5,6 +5,8 @@
 
 
 
+parametro, se nao for vetor, eh copia. vetor eh ponteiro
+
 
 parametro -> (1)
 
