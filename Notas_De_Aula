@@ -17,6 +17,9 @@ parametro -> (1)
 parametro -> oq vai
 argumento -> recebe
 
+referencia:
+implicito -> invisivel - > vetor
+explicito -> &, *
 
 
 
