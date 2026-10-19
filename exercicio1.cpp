@@ -23,11 +23,27 @@ void exercicio1(vector<int> vetorA, vector<int> vetorB) {
     for (int i = 0; i < vetorA.size(); i++) {
         for (int j = 0; j < vetorB.size(); j++) {
             if (vetorA[i] == vetorB[j]) {
-                cout << "O valor " << vetorA[i] << " esta presente nos dois vetores." << endl;
+              
                 break;
             }
         }
     }
+}
+
+int exercicio2(int vetorA[], int vetorB[], int vetorResultado[], int n) {
+    int contador = 0;
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (vetorA[i] == vetorB[j]) {
+                vetorResultado[contador] = vetorA[i];
+                contador++;
+                break;
+            }
+        }
+    }
+
+    return vetorResultado;
 }
 
 int main () {
