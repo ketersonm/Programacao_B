@@ -8,7 +8,7 @@ https://dontpad.com/algoritmosufn
 
 parametro, se nao for vetor, eh copia. vetor eh ponteiro. vetor mexer, altera na referencia
 
-& endereço local
+& endereço local -> só se usa com remover e inserir
 * poteiro
 ponteiro aponta para um endereço
 
