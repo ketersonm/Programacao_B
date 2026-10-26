@@ -6,6 +6,9 @@ Metodo -> UMA COISA
 
 https://dontpad.com/algoritmosufn
 
+ifstream -> input - leitura
+ofstream -> output - escrever
+
 parametro, se nao for vetor, eh copia. vetor eh ponteiro. vetor mexer, altera na referencia
 
 & endereço local -> só se usa com remover e inserir
